@@ -9,15 +9,15 @@ public class Inspector {
         int N = scan.nextInt();
 
         ArrayList<Integer> A = new ArrayList<>();
-        for (int i=0; i<N; i++) {
+        for (int i=1; i<=N; i++) {
             A.add(scan.nextInt());
         }
 
         int B = scan.nextInt(), C = scan.nextInt();
         int totalInspectorCount = 0;
 
-        for (int i=0; i<N; i++) {
-            int candidateNum = A.get(i);
+        for (int i=1; i<=N; i++) {
+            int candidateNum = A.get(i-1);
             candidateNum -= B;
             totalInspectorCount += 1;
 
