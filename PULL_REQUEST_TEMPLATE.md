@@ -26,17 +26,19 @@
 - [ ] 3시간 이상
 
 ## 문제풀이 🤔
-n = int(input())
-a = list(map(int, input().split()))
-b, c = map(int, input().split())
+    
+    n = int(input())
+    a = list(map(int, input().split()))
+    b, c = map(int, input().split())
 
-cnt = n
-for i in a:
-    i -= b
-    if i > 0:
-        if i % c:
-            cnt += i//c + 1
-        else:
-            cnt += i//c
+    cnt = n
+    for i in a:
+        i -= b
+        if i > 0:
+            if i % c:
+                cnt += i//c + 1
+            else:
+                cnt += i//c
 
-print(cnt)
+    print(cnt)
+
