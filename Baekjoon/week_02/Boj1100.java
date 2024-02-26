@@ -16,19 +16,12 @@ public class Boj1100 {
             chessBoard.add(chessBoardRow);
         }
         int horseCount = 0;
-        int rowIndex = 0;
-        for (ArrayList<Character> row : chessBoard) {
-            int columnIndex = 0;
-            for (char ChessHorse : row) {
-                if (rowIndex % 2 != 0 && columnIndex % 2 != 0) {
-                    if (ChessHorse == 'F') { horseCount += 1;}
+        for (int i = 0; i<8; i++) {
+            for(int j = 0; j<8; j++) {
+                if((i+j)%2 == 0 && chessBoard.get(i).get(j) == 'F') {
+                    horseCount++;
                 }
-                else if (rowIndex % 2 == 0 && columnIndex % 2 == 0) {
-                    if (ChessHorse == 'F') { horseCount += 1;}
-                }
-                columnIndex += 1;
             }
-            rowIndex += 1;
         }
         System.out.println(horseCount);
     }
