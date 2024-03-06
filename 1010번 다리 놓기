@@ -1,0 +1,22 @@
+import sys
+
+def factorial(n):
+    if n > 1:
+        return (n * factorial(n-1))
+    else :
+        return 1
+
+T = int(sys.stdin.readline())
+
+for i in range(T):
+    N, M = list(map(int, sys.stdin.readline().split()))
+    print(factorial(M) // (factorial(M-N) * factorial(N)))
+
+-----------------------------------------------------------
+문제풀이 
+
+-> nCr = n!/((n-r)!*r!)의 공식을 사용하면 되고, 여기서 n은 동쪽 다리의 수, r은 서쪽 다리의 수이다.
+-----------------------------------------------------------
+중점 사항
+
+-> 조합론이 적용되는 것을 보고 위의 공식을 떠올려 적용시켰더니 맞았다.
