@@ -1,4 +1,4 @@
-package Baekjoon.week_04;
+package Baekjoon.week_04; // 이거 없으니 채점 완료
 
 import java.util.Scanner;
 
