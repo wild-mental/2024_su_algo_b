@@ -1,0 +1,52 @@
+A배열은 정렬시키고, B배열을 정렬시키지 않고 문제를 푸는 방법
+import sys
+
+N = int(sys.stdin.readline())
+
+A = list(map(int, sys.stdin.readline().split()))
+B = list(map(int, sys.stdin.readline().split()))
+
+A.sort()
+
+S = 0
+
+for i in range(N):
+    B_max = max(B)
+
+    S += A[i] * B_max
+    B.remove(B_max)
+
+print(S)
+----------------------------------------------------
+문제 풀이
+
+ B배열을 정렬시키지 않고 문제를 풀기 위해선 먼저 A배열을 정렬시킨 후
+ B배열의 최댓값을 B_max에 넣고, A[i]의 값과 곱해준다.
+ 그리고 한번 사용한 B_max의 값은 remove를 통해 B배열에서 삭제시켜 진행한다.
+
+---------------------------------------------------------------------------------------------
+
+A,B배열을 정렬시키고 문제를 푸는 방법
+import sys
+
+N = int(sys.stdin.readline())
+
+A = list(map(int, sys.stdin.readline().split()))
+B = list(map(int, sys.stdin.readline().split()))
+
+A.sort()
+B.sort(reverse= True)
+
+S = 0
+for i in range(N):
+    S += A[i] * B[i]
+
+print(S)
+----------------------------------------------------
+문제 풀이
+
+ A배열을 낮은 수부터 정렬 시키고 B배열은 높은 수부터 정렬 시킨 후 
+ 각각의 배열의 [0]번째부터 입력된 N번째 까지 A[0] * B[0] + A[1] * B[1]... 더한 후 S에 넣으면
+ S에는 최솟값이 들어간다.
+
+ 
