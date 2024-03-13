@@ -1,0 +1,17 @@
+import sys
+m, n = map(int, sys.stdin.readline().split())
+
+for i in range(m, n+1):
+    if i == 0 or i == 1:
+        continue
+    for j in range(2, int(i ** 0.5) + 1):
+        if i % j == 0:
+            break
+    else:
+        print(i)
+
+-----------------------------------------------------
+문제 풀이
+
+ 소수를 구하는 알고리즘은 m의 값이 2이상일 경우 해당 수의 제곱근을
+ 구한 후 m부터 제곱근 수를 이용해 나누어 떨어진다면 소수가아니, 아니라면 소수인것을 이용해 풀었다.
