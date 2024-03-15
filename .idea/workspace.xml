@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dde454d3-8561-4eda-a966-399622086cf5" name="Changes" comment="boj1929_소수구하기 문제 풀이 완료" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="8a3e5f5193783ceb8d4894fc355a466405ac36a2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yang-dal&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="seungyeop" />
+                    <option name="lastUsedInstant" value="1710428401" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="26fd6476-6bd7-4b40-85d4-546a0a28d292" />
+        <option name="url" value="https://github.com/wild-mental/2024_su_algo_b.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2blYHg3wTdjVEKBRboqMXjezlii" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Boj1100.executor": "Run",
+    "Application.Inspector.executor": "Run",
+    "Application.PickClassLeader_1268.executor": "Run",
+    "Application.boj1010.executor": "Run",
+    "Application.boj1026_보물.executor": "Run",
+    "Application.boj1357_뒤집힌덧셈.executor": "Run",
+    "Application.boj1929_소수구하기.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "seungyeop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/seungyeop-han/workspace/Java/algo_study_B",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Baekjoon/week_03" />
+      <recent name="$PROJECT_DIR$/Baekjoon/week_01" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-a81d5c7c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde454d3-8561-4eda-a966-399622086cf5" name="Changes" comment="" />
+      <created>1706791046773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706791046773</updated>
+      <workItem from="1706791047797" duration="4415000" />
+      <workItem from="1706858759046" duration="10253000" />
+      <workItem from="1708435535505" duration="19000" />
+      <workItem from="1708676958091" duration="849000" />
+      <workItem from="1708934343160" duration="5495000" />
+      <workItem from="1709127600169" duration="1397000" />
+      <workItem from="1709559502303" duration="744000" />
+      <workItem from="1709808198675" duration="5012000" />
+      <workItem from="1709875176000" duration="33000" />
+      <workItem from="1709875280636" duration="9000" />
+      <workItem from="1710068472783" duration="3746000" />
+      <workItem from="1710425473919" duration="2830000" />
+      <workItem from="1710428317032" duration="240000" />
+      <workItem from="1710428564888" duration="5000" />
+      <workItem from="1710428576872" duration="9000" />
+      <workItem from="1710428710554" duration="969000" />
+      <workItem from="1710484038402" duration="20000" />
+      <workItem from="1710484112366" duration="321000" />
+    </task>
+    <task id="LOCAL-00001" summary="백준 문제 13458번 문제입니다.&#10;틀렸다는데 어떤게 틀렸는지 찾고 있고,&#10;깃허브 어떻게 쓰는건지 익히는 중입니다...&#10;이게 맞는지 모르겠어요..">
+      <option name="closed" value="true" />
+      <created>1706792315706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706792315706</updated>
+    </task>
+    <task id="LOCAL-00002" summary="백준 문제 13458번 문제입니다.&#10;틀렸다는데 어떤게 틀렸는지 찾고 있고,&#10;깃허브 어떻게 쓰는건지 익히는 중입니다...&#10;이게 맞는지 모르겠어요..">
+      <option name="closed" value="true" />
+      <created>1706792743632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706792743632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="백준 13458 번 문제 ArrayList 수정.&#10;(아직 오답이라고 합니다..)">
+      <option name="closed" value="true" />
+      <created>1706859366358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706859366358</updated>
+    </task>
+    <task id="LOCAL-00004" summary="백준 13458 번 문제 ArrayList 수정.&#10;(아직 오답이라고 합니다..)">
+      <option name="closed" value="true" />
+      <created>1706859961289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706859961289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="백준 13458 번 문제 IOException 추가.">
+      <option name="closed" value="true" />
+      <created>1706860045098</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706860045098</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- 백준 13458 번 문제 totalInspectorCount 를 int 에서 long 으로 변경.&#10;- PULL_REQUEST_TEMPLATE.md 작성 완료.">
+      <option name="closed" value="true" />
+      <created>1706861739052</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706861739052</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- Copy &amp; Rename PULL_REQUEST_TEMPLATE_13458.md">
+      <option name="closed" value="true" />
+      <created>1706861955043</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706861955043</updated>
+    </task>
+    <task id="LOCAL-00008" summary="- Copy &amp; Rename PULL_REQUEST_TEMPLATE_13458.md">
+      <option name="closed" value="true" />
+      <created>1706878911987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706878911987</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Boj 1100 번 문제 첫 번째 풀이입니다.">
+      <option name="closed" value="true" />
+      <created>1708677117189</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708677117189</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Boj 1100 번 문제 수정입니다.">
+      <option name="closed" value="true" />
+      <created>1708935381529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708935381529</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Boj 1018번 문제 풀이 입니다.">
+      <option name="closed" value="true" />
+      <created>1709127740325</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709127740325</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Boj 1018번 PULL_REQUEST_TEMPLETE 입니다.">
+      <option name="closed" value="true" />
+      <created>1709128189899</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709128189899</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Boj1010 풀이 중 입니다!">
+      <option name="closed" value="true" />
+      <created>1709559601894</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709559601894</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Boj1010 문제 풀이 완료">
+      <option name="closed" value="true" />
+      <created>1709813641962</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709813641962</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Boj1357 문제 풀이 런타임에러">
+      <option name="closed" value="true" />
+      <created>1710069416620</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710069416620</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Boj1357 문제 풀이 완료">
+      <option name="closed" value="true" />
+      <created>1710069491823</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710069491823</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Boj1026_보물 문제 풀이 완료">
+      <option name="closed" value="true" />
+      <created>1710072102913</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710072102913</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/seungyeop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 문제 13458번 문제입니다.&#10;틀렸다는데 어떤게 틀렸는지 찾고 있고,&#10;깃허브 어떻게 쓰는건지 익히는 중입니다...&#10;이게 맞는지 모르겠어요.." />
+    <MESSAGE value="백준 13458 번 문제 ArrayList 수정.&#10;(아직 오답이라고 합니다..)" />
+    <MESSAGE value="백준 13458 번 문제 IOException 추가." />
+    <MESSAGE value="- 백준 13458 번 문제 totalInspectorCount 를 int 에서 long 으로 변경.&#10;- PULL_REQUEST_TEMPLATE.md 작성 완료." />
+    <MESSAGE value="백준 1268번 임시반장정하기 1&#10;Rename PULL_REQUEST_TEMPLATE" />
+    <MESSAGE value="Boj 1100 번 문제 첫 번째 풀이입니다." />
+    <MESSAGE value="Boj 1100 번 문제 수정입니다." />
+    <MESSAGE value="Boj 1018번 문제 풀이 입니다." />
+    <MESSAGE value="Boj 1018번 PULL_REQUEST_TEMPLETE 입니다." />
+    <MESSAGE value="Boj1010 풀이 중 입니다!" />
+    <MESSAGE value="Boj1010 문제 풀이 완료" />
+    <MESSAGE value="Boj1357 문제 풀이 런타임에러" />
+    <MESSAGE value="Boj1357 문제 풀이 완료" />
+    <MESSAGE value="Boj1026_보물 문제 풀이 완료" />
+    <MESSAGE value="boj1929_소수구하기 문제 풀이 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="boj1929_소수구하기 문제 풀이 완료" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
