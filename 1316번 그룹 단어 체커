@@ -1,0 +1,19 @@
+N = int(input())
+answer = N
+
+for i in range(N):
+    word = str(input())
+    for j in range(len(word)-1):
+        if word[j] == word[j+1]:
+            continue
+        elif word[j] in word[j+1:]:
+            answer -= 1
+            break
+
+print(answer)
+
+----------------------------------------------
+문제풀이 
+ 처음과 그 다음 문자를 비교하고 같다면 다음으로 진행하며
+ 만약 현재 문자가 이후의 문자에 다시 나타난다면 그룹단어가 아니므로
+ answer에서 1을 빼고 반목문을 탈훌하게 하였습니다. 
